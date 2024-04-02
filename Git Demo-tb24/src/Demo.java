@@ -6,6 +6,10 @@ public class Demo
 		System.out.println("This is M1 of Demo");
 	}
 	
+	public void m2()
+	{
+		System.out.println("This is M2 of Demo");
+	}
 	
 	
 	
